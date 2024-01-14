@@ -1,4 +1,4 @@
-![ifindu](https://github.com/fauzanwijaya/iFindU/assets/139438257/83b1c7bb-4e67-493d-8cfb-9938a251cafb)
+![image](https://github.com/fauzanwijaya/iFindU/assets/139438257/1e30171c-95fb-4f35-a9fb-3913c1a77ff3)
 
 # iFindU (Instagram Follower Insight & Discovery Utility)
 
