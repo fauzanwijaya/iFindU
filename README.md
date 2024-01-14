@@ -1,4 +1,6 @@
-# iFindU (Instagram Follower INsight and Discovery Utility)
+![ifindu](https://github.com/fauzanwijaya/iFindU/assets/139438257/83b1c7bb-4e67-493d-8cfb-9938a251cafb)
+
+# iFindU (Instagram Follower Insight & Discovery Utility)
 
 ## Deskripsi
 iFindU adalah skrip Python yang memanfaatkan API Instagram untuk mengidentifikasi non-followers - pengguna yang Anda ikuti namun tidak mengikuti Anda kembali. Alat ini menggunakan session cookie dari akun Instagram Anda untuk akses, memungkinkan pemindaian akurat dan efisien.
