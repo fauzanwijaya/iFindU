@@ -18,7 +18,7 @@ iFindU adalah skrip Python yang memanfaatkan API Instagram untuk mengidentifikas
 Clone repositori ini menggunakan git:
 ```
 git clone https://github.com/fauzanwijaya/iFindU.git
-cd ifindu
+cd iFindU
 ```
 
 ## Cara Penggunaan
